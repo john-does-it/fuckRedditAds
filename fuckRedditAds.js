@@ -9,7 +9,7 @@
 // @license      MIT
 // ==/UserScript==
 
-;(function () {
+(function () {
   function hideAds() {
     let adsOnMainFeed = document.querySelectorAll('shreddit-ad-post')
     let adsOnThread = document.querySelectorAll('shreddit-dynamic-ad-link')
