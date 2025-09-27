@@ -1,0 +1,35 @@
+# FuckRedditAds - Hide ads on Reddit feed and in threads
+
+## Overview
+FuckRedditAds is a tiny code script that hide ads on Reddit feed and in threads. 
+This means you'll enjoy a cleaner browsing and viewing experience.
+
+## Additional Information
+- **Version:** See header in fuckRedditAds.js
+- **Testing:** The script has undergone basic testing and works effectively in most scenarios.
+- **Compatibility:** The script is subject to Reddit's updates, which may affect its functionality. Regular updates and maintenance are necessary for ongoing effectiveness.
+
+## How to Use?
+To use this script, the Tampermonkey browser extension is required. Tampermonkey enables the running of custom user scripts on specific web pages.
+
+1. **Install Tampermonkey:**
+   - Visit [Tampermonkey's website](https://www.Tampermonkey.net) and install the extension for your browser.
+  
+2. **Enable developper mode for Tampermonkey**
+   - Check the [Tampermonkey's website FAQ about how enabling developper mode](https://www.tampermonkey.net/faq.php?locale=en#Q209).
+   
+3. **Add the Script:**
+   - Navigate to the script's installation page: [FuckRedditAds - Hide ads on Reddit feed and in threads]([https://greasyfork.org/en/scripts/484915-youtubeads-mute-and-hide-youtube-ads](https://greasyfork.org/en/scripts/522252-redditads-hide-ads-on-reddit-feed-and-in-threads)).
+   - Click on the “Install this script” button.
+
+4. **Enable the Script:**
+   - Once installed, ensure the script is enabled in Tampermonkey's dashboard.
+
+5. **Enjoy YouTube:**
+   - Open Reddit and start browsing.
+
+## Notes
+- **License:** MIT
+- **Author:** John Doe
+- **Feedback and Issues:** If you encounter problems or have suggestions, providing feedback on the script's page is appreciated.
+- **Responsible Use:** Modifying website behavior, especially for ad skipping, may violate the website's terms of service. Use this script responsibly and at your own risk.
